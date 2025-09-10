@@ -26,7 +26,7 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://your-username.github.io/calculator-app/)
+[Click here to view the project](https://junaid691.github.io/calculator-app/)
 
 ---
 
